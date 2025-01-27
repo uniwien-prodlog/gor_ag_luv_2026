@@ -2,29 +2,21 @@
 title: Home
 ---
 
-# Workshop Template!
+# GOR AG Logistik und Verkehr 2025!
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="gor-logo.png" alt="GOR e.V. Logo" width="50%" %}
 
-A minimal Jekyll theme for creating workshop websites.
+*Workshop 2025:* 13.-14.03 am Frankfurt Airport (Danke Fraport AG!)
 
-*Add your workshop abstract here!*
+[Register here!](https://forms.gle/DpQP49y9AbsJaF868) (spaces are limited)
 
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
+*Sprache / Language*
+The workshop is traditionally in German, but we encourage participants to present in English as we may have some attendees who do not speak German.
 
-*See also:* [workshop-template-b](https://evanwill.github.io/workshop-template-b/), Bootstrap version.
+*Vorläufige / Preliminary Program*
 
-<div class="toc" markdown="1">
-## Contents:
+TODO
 
-{% for lesson in site.pages %}
-{% if lesson.nav == true %}- [{{ lesson.title }}]({{ lesson.url | relative_url }}){% endif %}
-{% endfor %}
-</div>
-
-Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}.
  
 > built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
 >
