@@ -4,20 +4,22 @@ title: Workshop 2025
 
 {% include figure.html img="gor-logo.png" alt="GOR e.V. Logo" width="40%" %}
 
-## Workshop 2025:* 13.-14.03 at Frankfurt Airport
+The German Operations Research Society working group for logistics and transportation (GOR AG LuV) invites you to attend our workshop this year.
+
+## AG LuV Workshop 2025: 13.-14.03 at Frankfurt Airport
 This year's GOR AG LuV workshop will be hosted by Fraport AG at Frankfurt Airport. Thanks to Fraport for hosting us!
 
 ## Attending
 [**Register here!**](https://forms.gle/DpQP49y9AbsJaF868) (spaces are limited)
 
-### Language
+## Workshop language
 The workshop is traditionally in German, but we encourage participants to present in English as we may have some attendees who do not speak German.
 
-### Preliminary Program
+## Preliminary Program
 Note that the following program is subject to change.
 
 
-| Day        | Start | End   | Title                                                                                                                                | Autoren               | Affiliation                 |
+| Day        | Start | End   | Title                                                                                                                                | Presenter(s)               | Affiliation                 |
 |------------|-------|-------|--------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-----------------------------|
 | **Thursday**   | 14:00 | 14:15 | *Arrive*                                                                                                                               |                       |                             |
 | 13.03.2025 | 14:15 | 14:30 | Welcome and Introduction from Fraport AG                                                                                                   |                       | Fraport AG                  |
