@@ -10,7 +10,7 @@ The German Operations Research Society working group for logistics and transport
 This year's GOR AG LuV workshop will be hosted by Fraport AG at Frankfurt Airport. Thanks to Fraport for hosting us!
 
 ## Attending
-[**Register here!**](https://forms.gle/DpQP49y9AbsJaF868) (spaces are limited)
+[**Register here!**](https://forms.gle/DpQP49y9AbsJaF868) Registration is free for members of the [GOR](https://www.gor-ev.de/). If you are not a GOR e.V. member, please join prior to attending the workshop.
 
 ## Workshop language
 The workshop is traditionally in German, but we encourage participants to present in English as we may have some attendees who do not speak German.
