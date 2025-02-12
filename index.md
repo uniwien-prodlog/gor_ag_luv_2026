@@ -50,9 +50,8 @@ Note that the following program is subject to change.
 
 ## Presentation abstracts
 
-**Enhancing Shipping Efficiency through Bin-packing with Reinforcement Learning**
-**Christoffel Doorman** (*InstaDeep*)
-
+**Enhancing Shipping Efficiency through Bin-packing with Reinforcement Learning**  
+**Christoffel Doorman** (*InstaDeep*)  
 Bin-packing is an optimisation problem that aims to efficiently pack items of varying sizes into containers to minimise wasted space. While bin-packing is a vastly studied problem in applied mathematics and operational research, traditional methods often struggle to find good solutions due to the complexity and combinatorial nature of the problem. Reinforcement Learning (RL), a machine learning approach where an agent learns through feedback from simulated interactions, offers a promising alternative. RL's advantages include flexibility to handle various constraints, scalability to large problems, and adaptability to learn from real-world data. By leveraging RL, logistics companies can develop intelligent systems that optimise container usage, reduce shipping costs and carbon footprint, and enhance operational efficiency.
 
 We at InstaDeep have been building a commercial tool called DeepPack (https://deeppack.ai/), which uses end-to-end RL to solve the bin-packing problem for the logistics and supply chain industry. DeepPack originates from an in-house research project on self-play RL applied to combinatorial optimisation problems, published at NeurIPS’18 (https://arxiv.org/pdf/1807.01672). Over the past years, we have developed DeepPack from a research idea to a commercial application that supports the full stack of logistic constraints and requirements, providing super-human performance.
