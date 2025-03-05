@@ -9,6 +9,15 @@ The German Operations Research Society working group for logistics and transport
 ## AG LuV Workshop 2025: 13.-14.03 at Frankfurt Airport
 This year's GOR AG LuV workshop will be hosted by Fraport AG at Frankfurt Airport. Thanks to Fraport for hosting us!
 
+## Directions to the workshop location
+The workshop will take place in the [inno.hub][https://www.fraport.com/de/geschaeftsfelder/service/coworking/inno-hub.html] in Terminal 2. Please note the detailed directions below to find the workshop room.
+
+**By car**: Park in P8 beneath Terminal 2.  
+**By train**: Take the train to the airport train station and go to Terminal 1. Follow the signs to area D/E, which will bring you to the Skyline. Take the Skyline to Terminal 2.  
+
+Once you arrive in Terminal 2, go to Area D and continue to the west until you reach the end of the building past the last Check-In desk. There is a small hallway. Walk past the first elevator (this one does not go to the 5th floor!). The second elevator further down the hallway will take you to the 5th floor. Enter the door for the "inno.hub" and then follow the signs for the "inno.gate" (room 152.5333).
+
+
 ## Attending
 [**Register here!**](https://forms.gle/DpQP49y9AbsJaF868) Registration is free for members of the [GOR](https://www.gor-ev.de/). If you are not a GOR e.V. member, please join prior to attending the workshop.
 
