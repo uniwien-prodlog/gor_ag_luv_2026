@@ -89,7 +89,7 @@ Während im urbanen Raum neue Mobilitätslösungen das bereits gute ÖPNV-Angebo
 *Fraport AG*
 
 **Sustainable Supply Chain Network Design Framework for Lithium-Ion Battery Production leveraging Multi-Objective Optimization**  
-**Felix Westerkamp ** (*d-fine GmbH*)  
+**Felix Westerkamp** (*d-fine GmbH*)  
 For years, global supply chains have been primarily optimized for economic efficiency. However, due to stricter regulations and evolving expectations from customers and other stakeholders, ecological and social sustainability are becoming increasingly important in supply chain network design. When formulating this sustainable network design as a mathematical model, it results in a multi-objective optimization problem with several competing goals. To address this, we apply activity analysis to evaluate the sustainability impacts of different supply chain processes and incorporate these impacts into our optimization framework. A key aspect of our approach is the inclusion of various sustainability indicators in the model's objectives, tailored to the specific preferences of decision-makers. By solving this multi-objective model using an "a posteriori" approach, we generate a Pareto front, allowing decision-makers to select their preferred solution. We demonstrate the practical application of our model in the context of lithium-ion battery supply chains for electromobility. In this scenario, battery manufacturers can utilize the model to optimize raw material sourcing, while regulators can assess the effects of regulations on the ideal supply chain configuration.
 
 **A Branch-Price-Cut-And-Switch Approach for Optimizing Team Formation and Routing for Airport Baggage Handling Tasks with Stochastic Travel Times**  
