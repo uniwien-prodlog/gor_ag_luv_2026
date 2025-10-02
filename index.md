@@ -9,6 +9,9 @@ The German Operations Research Society working group for logistics and transport
 ## AG LuV Workshop 2026: 05.-06.03 at DXC Technology in Düsseldorf
 This year's GOR AG LuV workshop will be hosted by DXC Technology in Düsseldorf. Save the date!
 
+
+{% include figure.html img="dxc_logo.png" alt="DXC Technology logo" width="20%" %}
+
 {% comment %}
 ## Directions to the workshop location
 The workshop will take place in... TODO
@@ -78,7 +81,7 @@ We at InstaDeep have been building a commercial tool called DeepPack (https://de
  
 > built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
 >
-> GOR e.V. logo copyright GOR e.V., content: cc-by-sa <a href="https://github.com/{{ site.github_username }}">{{ site.author }}</a> {{ site.pub_year}} (get [source code]({{ site.repo }})).
+> GOR e.V. logo copyright GOR e.V., DXC logo copyright DXC Technologies, content: cc-by-sa <a href="https://github.com/{{ site.github_username }}">Kevin Tierney</a> {{ site.pub_year}} (get [source code]({{ site.repo }})).
 > Last build date: {{ site.time | date: "%Y-%m-%d" }}.
 >
 > <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="Creative Commons License" /></a>
