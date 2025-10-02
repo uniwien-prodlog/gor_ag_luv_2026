@@ -6,25 +6,31 @@ title: Workshop 2025
 
 The German Operations Research Society working group for logistics and transportation (GOR AG LuV) invites you to attend our workshop this year.
 
-## AG LuV Workshop 2025: 13.-14.03 at Frankfurt Airport
-This year's GOR AG LuV workshop will be hosted by Fraport AG at Frankfurt Airport. Thanks to Fraport for hosting us!
+## AG LuV Workshop 2026: 05.-06.03 at DXC Technology in Düsseldorf
+This year's GOR AG LuV workshop will be hosted by DXC Technology in Düsseldorf. Save the date!
 
+{% comment %}
 ## Directions to the workshop location
-The workshop will take place in the [inno.hub](https://www.fraport.com/de/geschaeftsfelder/service/coworking/inno-hub.html) in Terminal 2. Please note the detailed directions below to find the workshop room.
+The workshop will take place in... TODO
 
-**By car**: Park in P8 beneath Terminal 2.  
-**By train**: Take the train to the airport train station and go to Terminal 1. Follow the signs to area D/E, which will bring you to the Skyline. Take the Skyline to Terminal 2.  
+**By car**: TODO
+**By train**: TODO
+{% endcomment %}
 
-Once you arrive in Terminal 2, go to Area D and continue to the west until you reach the end of the building past the last Check-In desk. There is a small hallway. Walk past the first elevator (this one does not go to the 5th floor!). The second elevator further down the hallway will take you to the 5th floor. Enter the door for the "inno.hub" and then follow the signs for the "inno.gate" (room 152.5333).
 
 
 ## Attending
+Registration is not yet open. Please check back soon. 
+{% comment %}
 [**Register here!**](https://forms.gle/DpQP49y9AbsJaF868) Registration is free for members of the [GOR](https://www.gor-ev.de/). If you are not a GOR e.V. member, please join prior to attending the workshop.
+{% endcomment %}
 
 ## Workshop language
-The workshop is traditionally in German, but we encourage participants to present in English as we may have some attendees who do not speak German.
+This year, we kindly request that all talks are given in English, so as to not exclude any guests from the talks.
 
 ## Preliminary Program
+Expect a program in January, 2026!
+{% comment %}
 Note that the following program is subject to change.
 
 
@@ -56,63 +62,19 @@ Note that the following program is subject to change.
 |            | 12:35 | 12:40 | *Farewell and thanks*                                                                                                                  |                       |                             |
 |            |       |       | *Group lunch*                                                                                                                          |                       |                             |
 |            | 15:00 | 17:00 | Airport tour (**Meeting point: 14:30 behind the visitor's center**, Terminal 1 Area C) Registration necessary!                        |                       | Fraport AG                  |
+{% endcomment %}
 
 ## Presentation abstracts
+Coming in January, 2026.
 
+{% comment %}
 **Enhancing Shipping Efficiency through Bin-packing with Reinforcement Learning**  
 **Christoffel Doorman** (*InstaDeep*)  
 Bin-packing is an optimisation problem that aims to efficiently pack items of varying sizes into containers to minimise wasted space. While bin-packing is a vastly studied problem in applied mathematics and operational research, traditional methods often struggle to find good solutions due to the complexity and combinatorial nature of the problem. Reinforcement Learning (RL), a machine learning approach where an agent learns through feedback from simulated interactions, offers a promising alternative. RL's advantages include flexibility to handle various constraints, scalability to large problems, and adaptability to learn from real-world data. By leveraging RL, logistics companies can develop intelligent systems that optimise container usage, reduce shipping costs and carbon footprint, and enhance operational efficiency.
 
 We at InstaDeep have been building a commercial tool called DeepPack (https://deeppack.ai/), which uses end-to-end RL to solve the bin-packing problem for the logistics and supply chain industry. DeepPack originates from an in-house research project on self-play RL applied to combinatorial optimisation problems, published at NeurIPS’18 (https://arxiv.org/pdf/1807.01672). Over the past years, we have developed DeepPack from a research idea to a commercial application that supports the full stack of logistic constraints and requirements, providing super-human performance.
 
-**Gestaltung des Frachttransports der Zukunft durch Simulation**  
-**Niklas Rommelspacher** (*SimPlan AG*)  
-Die Bedeutung der diskreten ereignisorientierten Simulation als Werkzeug zur quantitativen Analyse und Entscheidungsunterstützung hat in den letzten Jahren deutlich zugenommen. In diesem Vortrag soll ein gemeinsames Simulationsprojekt der FRAPORT AG und der SimPlan AG vorgestellt werden. In dem Simulationsprojekt wurde in den letzten 7 Jahren der Frachttransport der Bodenverkehrsdienste (BVD) auf dem Vorfeld des Frankfurter Flughafens kontinuierlich analysiert und gemeinsam Verbesserungen entwickelt. Es soll vorgestellt werden, wie mit Hilfe der Simulation strategische Fragestellungen für Themen wie Disposition, Personal, Gerät, Flugplan und Infrastruktur objektiv bewertet werden konnte. Des Weiteren kann die Simulation zu kurzfristigen Prognosen anhand Echtzeit-Daten genutzt werden. Außerdem wird in dem Vortrag darauf eingegangen, wie innerhalb des Simulationsmodells Optimierungsprobleme gelöst werden. Folgende Optimierungsprobleme werden im Simulationsmodell unter anderem gelöst: Traveling Salesman Problem und klassische Transportprobleme.
-
-**Reducing Climate Impact of Aviation by Aircraft Sharing and Passenger Bundling Between Airlines: The NetShAir Project**  
-**Thomas Hagspihl** (*Bauhaus Luftfahrt e.V.*)  
-In line with the goals of the Paris Agreement, airlines have self-committed to achieving net-zero carbon emissions by 2050. In contrast to technological improvements with their long development and market lead times, radical innovations in airline business models and operations promise the opportunity to reduce in the climate impact of aviation significantly in the short term. In the NetShAir project, funded by the German Federal Ministry for Economic Affairs and Climate Action, we explore the idea of airlines sharing their aircraft fleets, which allows to restructure the flight network and to re-optimize passenger flows. In particular, we use mixed-integer programming to quantify the potential for reducing emissions in the European, North American, and transatlantic flight network, comparing the status quo with optimized networks in both current and future scenarios. We consider aircraft performance characteristics, airport capacities, the compatibility of aircraft type assignments to individual flight routes, the continuous flow of aircraft between airports, and demand satisfaction. For our analyses we use real flight plan, demand, and fleet data. Furthermore, the project aims to elaborate a roadmap for realizing the identified potential by proposing how to adapt existing airline business models and how to overcome existing legal hurdles.
-
-**Rekonstruktion von ÖPNV-Netzen aus OpenData-Quellen**  
-**Jörn Schönberger** (*TU Dresden*)  
-Die Untersuchung von neuen Ideen im ÖPNV erfordert häufig eine holistische Erfassung des betrachteten Gesamtnetzes, da diverse Wechselwirkungen zwischen Infrastruktur, Fahrzeugen, Linienverläufen, Fahrplan etc. bestehen. Derartige Netzwerke sind allerdings extrem komplex, so dass eine händische Aufbereitung nicht sinnvoll ist. In diesem Vortrag berichten wir über die Rekonstruktion kompletter ÖPNV-Netzwerke aus offenen Datenquellen. Unter Verwendung verschiedener Konvertierungs- und Integrationsroutinen kann ein hinreichend detaillierter Graph erstellt werden, in dem reale Fahrpläne umgesetzt werden. Anhand verschiedener Beispiele werden die zu bewältigenden Herausforderungen, gelöste aber auch ungelöste Probleme aufgezeigt und ein Einblick in das resultierende Datenmodell bzw. die Szenarien-Struktur gegeben.
-
-**Integration von Letzter-Meile-Logistik und öffentlichem Nahverkehr**  
-**Philine Schiewe** (*Aalto Universität*)  
-Um die steigende Nachfrage an Paketlieferungen bedienen zu können, ohne die städtische Infrastruktur weiter zu überlasten, müssen neue Auslieferungskonzepte erprobt werden. Wir stellen ein mathematisches Optimierungsmodell für eine zweistufige Tourenplanung vor, in dem in der ersten Stufe ein Fahrzeug des öffentlichen Verkehrs genutzt wird und die zweiten Stufe durch kleine, möglicherweise autonome Fahrzeuge übernommen wird. Es zeigt sich, dass sowohl die Kapazität der Stufe-2-Fahrzeuge als auch deren Anzahl einen Einfluss auf die Problemkomplexität haben und dass kommerzielle Solver auch kleine Instanzen nicht in annehmbarer Zeit lösen können. Allerdings können wir polynomiell lösbare Spezialfälle identifizieren und so schnelle heuristische Lösungsverfahren konstruieren. Eine Rechenstudie für Paketlieferungen entlang einer Buslinie in Göttingen zeigt, dass die entwickelten Heuristiken Lösungen für bis zu 900 auszuliefernden Paketen innerhalb weniger Minuten berechnen können. Gleichzeitig ist die dadurch für die Buslinie erzeugte Verspätung vernachlässigbar klein.
-
-**Ein schwarmbasiertes Mobilitätssystem für einen nachhaltigen und bedarfsgerechten Transport im ländlichen Raum: Ansätze zur integrierten Flotten- und Betriebsplanung**  
-**Guido Schryen** (*Universität Paderborn*)  
-Während im urbanen Raum neue Mobilitätslösungen das bereits gute ÖPNV-Angebot ergänzen, gestaltet sich in ländlichen Regionen die Transformation hin zu einem zukunftsfähigen Mobilitätssystem noch schwierig. Hier setzt das Projekt „NeMo.bil - System kooperierender Fahrzeuge für einen individualisierten Öffentlichen Verkehr“ an, das vom Bundesministerium für Wirtschaft und Klimaschutz gefördert wird. Das übergeordnete Ziel des Projekts besteht in der Entwicklung eines schwarmbasierten On-Demand-Mobilitätssystems für einen nachhaltigen und bedarfsgerechten Personen- und Warentransport, bei dem kleine, autonome Fahrzeuge zu Verbünden gekoppelt werden können. Der Vortrag stellt das geplante Mobilitätssystem vor und widmet sich schwerpunktmäßig der strategischen Flotten- und operativen Betriebsplanung, zwischen denen Wechselwirkungen bestehen. Während die Flottenplanung u.a. die Gestaltung der Fahrzeugeigenschaften und die Festlegung des Flottenportfolios umfasst, inkludiert die Betriebsplanung u.a. die Fahrzeugdisposition und die Routenplanung sowie das Ride-Pooling und die Planung von Konvoi-Fahrten. Mit Hilfe von Optimierungs- und Simulationsansätzen soll eine integrierte Flotten- und Betriebsplanung durchgeführt werden, deren Ziel darin besteht, das System sowohl unter ökonomischen und ökologischen Gesichtspunkten als auch unter dem Aspekt der Nutzerzufriedenheit möglichst effizient zu gestalten.
-
-**The Intelligent Dispatching Agent (IDA): Enhancing Airport Ramp Operations based on Reinforcement Learning**  
-*Fraport AG*
-
-**Sustainable Supply Chain Network Design Framework for Lithium-Ion Battery Production leveraging Multi-Objective Optimization**  
-**Felix Westerkamp** (*d-fine GmbH*)  
-For years, global supply chains have been primarily optimized for economic efficiency. However, due to stricter regulations and evolving expectations from customers and other stakeholders, ecological and social sustainability are becoming increasingly important in supply chain network design. When formulating this sustainable network design as a mathematical model, it results in a multi-objective optimization problem with several competing goals. To address this, we apply activity analysis to evaluate the sustainability impacts of different supply chain processes and incorporate these impacts into our optimization framework. A key aspect of our approach is the inclusion of various sustainability indicators in the model's objectives, tailored to the specific preferences of decision-makers. By solving this multi-objective model using an "a posteriori" approach, we generate a Pareto front, allowing decision-makers to select their preferred solution. We demonstrate the practical application of our model in the context of lithium-ion battery supply chains for electromobility. In this scenario, battery manufacturers can utilize the model to optimize raw material sourcing, while regulators can assess the effects of regulations on the ideal supply chain configuration.
-
-**A Branch-Price-Cut-And-Switch Approach for Optimizing Team Formation and Routing for Airport Baggage Handling Tasks with Stochastic Travel Times**  
-**Andreas Hagn** (*TU München*)  
-In airport operations, optimally using dedicated personnel for baggage handling tasks plays a crucial role in the design of resource-efficient processes. Teams of workers with different qualifications must be formed and baggage tasks must be assigned to them. Each task has a time window within which it can be started and should be finished. Violating these temporal restrictions incurs severe financial penalties for the operator. In practice, various components of this process are subject to uncertainties. We consider the aforementioned problem under the assumption of stochastic travel times across the apron. We present two binary program formulations to model the problem at hand and solve it with a Branch-Price-Cut-and-Switch approach, in which we dynamically switch between two master problem formulations. Furthermore, we use an exact separation method to identify violated rank-1 Chvátal-Gomory cuts and introduce an efficient branching rule. We test the algorithm on instances generated based on real-world data from a major European hub airport. Our results indicate that our algorithm is able to significantly outperform existing solution approaches. Moreover, an explicit consideration of stochastic travel times allows for solutions that utilize the available workforce more efficiently, while simultaneously guaranteeing a stable service level for the baggage handling operator.
-
-**The Green Locomotive Assignment Problem with Deadheading on Trains**  
-**Gislind Baumgartner** (*Universität Wien*)  
-Reducing energy consumption is a key objective in transportation. Using detailed infrastructure data, this study introduces the Green Locomotive Assignment Problem (GLAP) to minimize energy consumption in railway operations by efficiently assigning locomotives to pre-scheduled trains. The model targets key energy consumption sources such as heating, consist busting, idling, and light-traveling, which occurs when locomotives relocate without pulling a train. Energy consumption and regenerative braking during light-traveling are calculated using the Davis equation with track gradients. Additionally, we propose a variation of the model that incorporates deadheading, where locomotives are repositioned by attaching them to trains without fully using their engines. Including detailed gradient information from the Austrian railway network, we compare the distance- and locomotive-minimizing objective with the GLAP solution and observe that energy consumption can be reduced significantly by utilizing more energy-efficient paths, and optimizing the order of locomotive types on light-traveling trips.
-
-**Port Call Learning and Optimization Challenges: The PortCall.Zero Project**  
-**Frederik Schulte** (*TU Delft*)  
-European seaports must achieve net zero emission by 2050 and 55% emission reduction (‘fit for 55’) by 2030 as agreed in the European Green Deal and comply with the FuelEU Maritime and EU Emissions Trading System regulations. Ports are complex ecosystems of mutually interacting organizations. A single logistic operation within the port call process of visiting ships may involve 30 parties and 200 interactions. Up to 80% of the emissions in ports are attributed to the port call process. Efforts of a single actor to reduce emissions are often suboptimal, or may even be counterproductive. Moreover, the anticipated sharp surge in demand for electricity and renewable fuels introduces new uncertainties. This poses an urgent need for new methods to support coordinated decision-making and actions to develop collective net-zero strategies for the port call. Current methods lack integrated planning capabilities, are often limited by data sharing, and do not sufficiently account for uncertainties introduced by shore power and new fuels. This project develops novel new (federated) machine learning and optimization methods that capture the complexity of the port-call process and handle uncertainties caused by the energy transitions. The approach is demonstrated in the ports of Rotterdam and Moerdijk.
-
-**Planung von dynamisch-induktiven Ladeinfrastrukturen auf Flughafenvorfeldern**  
-**Inka Nozinski** (*Leibniz Universität Hannover*)  
-Der Betrieb auf dem Flughafenvorfeld trägt zu den CO2-Emissionen des Luftverkehrssystems bei. Der Einsatz batteriebetriebener elektrischer Vorfeldfahrzeuge, wie etwa elektrischer Vorfeldbusse, bietet eine Möglichkeit, diese Emissionen zu reduzieren. Das Aufladen der Fahrzeuge führt jedoch zu langen Standzeiten, die sich negativ auf den Flughafenbetrieb auswirken können. Eine mögliche Lösung für dieses Problem ist die dynamisch-induktive Ladung, die es ermöglicht, Fahrzeuge während der Fahrt kabellos aufzuladen. Um eine dynamisch-induktive Ladeinfrastruktur auf dem Flughafenvorfeld zu integrieren, ist es notwendig zu bestimmen, wo die Komponenten der Technologie platziert werden sollen. Zu diesem Zweck wurden mehrere mathematische Entscheidungsmodelle entwickelt, die darauf abzielen, die Gesamtinvestitionskosten zu minimieren.
-
-**Operative Planung von dynamisch-induktiv geladenen Passagierbussen auf Flughafenvorfeldern**  
-**Niklas Pöch** (*Leibniz Universität Hannover*)  
-Angesichts der zunehmenden Bedeutung von Nachhaltigkeit in der Luftfahrt aufgrund des Klimawandels ist die Elektrifizierung von Bodenfahrzeugen auf dem Flughafenvorfeld eine Möglichkeit, Emissionen zu reduzieren. Dynamisch-induktives Laden, bei dem die Fahrzeuge während der Fahrt kabellos aufgeladen werden, ist für Vorfeldfahrzeuge besonders geeignet, da es im Vergleich zum konduktiven Laden keine Standzeiten für das Aufladen von Elektrofahrzeugen gibt. Diese Arbeit konzentriert sich auf die Modellierung der operativen Routenführung von elektrischen Passagierbussen auf dem Flughafenvorfeld, die eine dynamisch-induktive Ladeinfrastruktur zum Aufladen ihrer Batterien nutzen. Ziel ist es, verschiedene Systeme zu evaluieren, um die Abhängigkeiten zwischen der Dimensionierung der induktiven Ladeinfrastruktur, der Größe der Fahrzeugflotte und deren Batteriegröße aufzuzeigen.
-
-
+{% endcomment %}
  
 > built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
 >
