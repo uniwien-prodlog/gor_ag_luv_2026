@@ -1,5 +1,5 @@
 ---
-title: Workshop 2025
+title: Workshop 2026
 ---
 
 {% include figure.html img="gor-logo.png" alt="GOR e.V. Logo" width="40%" %}
