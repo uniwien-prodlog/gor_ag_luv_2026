@@ -23,13 +23,14 @@ The workshop will take place in... TODO
 
 
 ## Attending
-Registration is not yet open. Please check back soon. 
+
+Abstract submission is now open! Please [**submit your abstract here!**](https://forms.gle/KrJNBEHirTjc7BHg6). Abstract submission is open until December 23, 2025. Note that the workshop is free for members of the [GOR e.V.](https://www.gor-ev.de/). If you are not a member, please sign up before submitting your abstract.
 {% comment %}
 [**Register here!**](https://forms.gle/DpQP49y9AbsJaF868) Registration is free for members of the [GOR](https://www.gor-ev.de/). If you are not a GOR e.V. member, please join prior to attending the workshop.
 {% endcomment %}
 
 ## Workshop language
-This year, we kindly request that all talks are given in English, so as to not exclude any guests from the talks.
+This year, we kindly request that all talks are given in English, so as to not exclude anyone from the talks.
 
 ## Preliminary Program
 Expect a program in January, 2026!
