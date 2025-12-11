@@ -33,7 +33,7 @@ Abstract submission is now open! Please [**submit your abstract here!**](https:/
 This year, we kindly request that all talks are given in English, so as to not exclude anyone from the talks.
 
 ## Preliminary Program
-Expect a program in January, 2026!
+Expect a program in January, 2026! Elections for the *Vorstand* of the AG will take place.
 {% comment %}
 Note that the following program is subject to change.
 
