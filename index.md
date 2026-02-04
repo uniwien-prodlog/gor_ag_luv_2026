@@ -7,7 +7,7 @@ title: Workshop 2026
 The German Operations Research Society working group for logistics and transportation (GOR AG LuV) invites you to attend our workshop this year.
 
 ## AG LuV Workshop 2026: 05.-06.03 at DXC Technology in Düsseldorf
-This year's GOR AG LuV workshop will be hosted by DXC Technology in Düsseldorf.
+Thank you to DXC Technology for hosting this year's GOR AG LuV workshop at their offices in Düsseldorf!
 
 
 {% include figure.html img="dxc_logo.png" alt="DXC Technology logo" width="20%" %}
@@ -43,7 +43,7 @@ Note that the following program is subject to change. All speakers are requested
 |            | 15:40 | 16:10 | Title TBA                                                                                                                            | TBA                   | DXC Technology              |
 |            | 16:10 | 16:40 | News from the tram simulation project: Converging the undirected infrastructure graph in Openstreetmap into a routable directed graph| Jörn Schönberger      | TU Dresden                  |
 |            | 16:40 | 17:10 | Tariff Design and Real-Time Acceptance Control in On-Demand Public Transport                                                         | Pirmin Fontaine       | Catholic University of Eichstätt-Ingolstadt |
-|            | 17:10 | 17:20 | AG Logistik und Verkehr Elections                                                                                                    |                       |                             |
+|            | 17:10 | 17:20 | Elections: AG Logistik und Verkehr                                                                                                   |                       |                             |
 |            | 19:00 |       | *Group dinner* (Location TBA)                                                                                                        |                       |                             | 
 | **Friday**     | 8:45  | 9:00  | *Arrive*                                                                                                                         |                       |                             |
 | 06.03.2025 | 9:00  | 9:30  | Title TBA                                                                                                                            | Jonas Brenker         | Paderborn University        |
