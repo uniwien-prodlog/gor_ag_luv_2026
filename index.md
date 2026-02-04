@@ -43,14 +43,15 @@ Note that the following program is subject to change. All speakers are requested
 |            | 17:10 | 17:20 | Elections: AG Logistik und Verkehr                                                                                                   |                       |                             |
 |            | 18:30 |       | *Group dinner* (Location TBA)                                                                                                        |                       |                             | 
 | **Friday**     | 8:45  | 9:00  | *Arrive*                                                                                                                         |                       |                             |
-| 06.03.2025 | 9:00  | 9:30  | Title TBA                                                                                                                            | Jonas Brenker         | Paderborn University        |
-|            | 9:30  | 10:00 | The Truck-Drone Hurdle Relay Problem in a Euclidean Space                                                                            | Christin Münch        | University Duisburg-Essen   |
-|            | 10:00 | 10:30 | Title TBA                                                                                                                            | Daniel Wetzel         | University of Vienna        |
+| 06.03.2025 | 9:00  | 9:30  | Title TBA                                                                                                                            | TBA                   | DXC Technology              |
+|            | 9:30  | 10:00 | Title TBA                                                                                                                            | Daniel Wetzel         | University of Vienna        |
+|            | 10:00 | 10:30 | Title TBA                                                                                                                            | Jonas Brenker         | Paderborn University        |
 |            | 10:30 | 10:45 | **Group picture**                                                                                                                    |                       |                             |
 |            | 10:45 | 11:00 | *Coffee break*                                                                                                                       |                       |                             |
-|            | 11:00 | 11:30 | Logical Mapping of Physical Production and Material Flow Networks                                                                    | Wilmjakob Herlyn      | University of Magdeburg     |
-|            | 11:30 | 12:00 | VRPAgent: LLM-Driven Discovery of Heuristic Operators for Vehicle Routing Problems                                                   | Kevin Tierney         | University of Vienna        |
-|            | 12:00 | 12:05 | *Farewell and thanks*                                                                                                                |                       |                             |
+|            | 11:00 | 11:30 | The Truck-Drone Hurdle Relay Problem in a Euclidean Space                                                                            | Christin Münch        | University Duisburg-Essen   |
+|            | 11:30 | 12:00 | Logical Mapping of Physical Production and Material Flow Networks                                                                    | Wilmjakob Herlyn      | University of Magdeburg     |
+|            | 12:00 | 12:30 | VRPAgent: LLM-Driven Discovery of Heuristic Operators for Vehicle Routing Problems                                                   | Kevin Tierney         | University of Vienna        |
+|            | 12:30 | 12:35 | *Farewell and thanks*                                                                                                                |                       |                             |
 |            |       |       | *Group lunch*                                                                                                                        |                       |                             |
 
 ## Presentation abstracts (Author-Alphabetical order)
