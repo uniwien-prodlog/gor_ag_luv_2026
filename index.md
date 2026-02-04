@@ -12,11 +12,8 @@ Thank you to DXC Technology for hosting this year's GOR AG LuV workshop at their
 
 {% include figure.html img="dxc_logo.png" alt="DXC Technology logo" width="20%" %}
 
-{% comment %}
 ## Directions to the workshop location
 The workshop will take place in at [DXC Technology, Speditionsstraße 13, 40221 Düsseldorf, Germany](https://maps.app.goo.gl/ysDpGx8Mbkk49kSV6).
-{% endcomment %}
-
 
 
 ## Attending
