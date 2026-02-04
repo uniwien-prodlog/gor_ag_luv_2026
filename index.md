@@ -7,16 +7,15 @@ title: Workshop 2026
 The German Operations Research Society working group for logistics and transportation (GOR AG LuV) invites you to attend our workshop this year.
 
 ## AG LuV Workshop 2026: 05.-06.03 at DXC Technology in Düsseldorf
-This year's GOR AG LuV workshop will be hosted by DXC Technology in Düsseldorf. Save the date!
+This year's GOR AG LuV workshop will be hosted by DXC Technology in Düsseldorf.
 
 
 {% include figure.html img="dxc_logo.png" alt="DXC Technology logo" width="20%" %}
 
 {% comment %}
 ## Directions to the workshop location
-The workshop will take place in... TODO
+The workshop will take place in at [DXC Technology, Speditionsstraße 13, 40221 Düsseldorf, Germany](https://maps.app.goo.gl/ysDpGx8Mbkk49kSV6).
 
-**By car**: TODO
 **By train**: TODO
 {% endcomment %}
 
@@ -24,7 +23,7 @@ The workshop will take place in... TODO
 
 ## Attending
 
-Abstract submission is now open! Please [**submit your abstract here!**](https://forms.gle/KrJNBEHirTjc7BHg6). Abstract submission is open until December 23, 2025. Note that the workshop is free for members of the [GOR e.V.](https://www.gor-ev.de/). If you are not a member, please sign up before submitting your abstract.
+Registration is open! Please [**register here!**](https://forms.gle/KrJNBEHirTjc7BHg6). Note that the workshop is free for members of the [GOR e.V.](https://www.gor-ev.de/). If you are not a member, please sign up before registering.
 {% comment %}
 [**Register here!**](https://forms.gle/DpQP49y9AbsJaF868) Registration is free for members of the [GOR](https://www.gor-ev.de/). If you are not a GOR e.V. member, please join prior to attending the workshop.
 {% endcomment %}
@@ -33,53 +32,73 @@ Abstract submission is now open! Please [**submit your abstract here!**](https:/
 This year, we kindly request that all talks are given in English, so as to not exclude anyone from the talks.
 
 ## Preliminary Program
-Expect a program in January, 2026! Elections for the *Vorstand* of the AG will take place.
-{% comment %}
 Note that the following program is subject to change.
 
 
-| Day        | Start | End   | Title                                                                                                                                | Presenter(s)               | Affiliation                 |
+| Day        | Start | End   | Title                                                                                                                                | Presenter(s)          | Affiliation                 |
 |------------|-------|-------|--------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-----------------------------|
-| **Thursday**   | 13:45 | 14:00 | *Arrive*                                                                                                                               |                       |                             |
-| 13.03.2025 | 14:00 | 14:10 | Welcome and Introduction from Fraport AG                                                                                                   |                       | Fraport AG                  |
-|            | 14:10 | 14:40 | Transforming Airport Operations with OR, AI and Analytics                                                                            |                       | Fraport AG                  |
-|            | 14:40 | 15:05 | Enhancing Shipping Efficiency through Bin-packing with Reinforcement Learning                                                        | Christoffel Doorman   | InstaDeep                   |
-|            | 15:05 | 15:20 | *Coffee break*                                                                                                                         |                       |                             |
-|            | 15:20 | 15:45 | Gestaltung des Frachttransports der Zukunft durch Simulation                                                                         | Niklas Rommelspacher  | SimPlan AG                  |
-|            | 15:45 | 16:10 | Reducing Climate Impact of Aviation by Aircraft Sharing and Passenger Bundling Between Airlines: The NetShAir Project                | Thomas Hagspihl       | Bauhaus Luftfahrt e.V.      |
-|            | 16:10 | 16:30 | *Coffee break*                                                                                                                         |                       |                             |
-|            | 16:30 | 16:55 | Rekonstruktion von ÖPNV-Netzen aus OpenData-Quellen                                                                                  | Jörn Schönberger      | TU Dresden                  |
-|            | 16:55 | 17:20 | Integration von Letzter-Meile-Logistik und öffentlichem Nahverkehr                                                                    | Philine Schiewe       | Aalto Universität           |
-|            | 17:20 | 17:45 | Ein schwarmbasiertes Mobilitätssystem für einen nachhaltigen und bedarfsgerechten Transport im ländlichen Raum: Ansätze zur integrierten Flotten- und Betriebsplanung | Guido Schryen         | Universität Paderborn       |
-|            | 19:00 |       | Group dinner at Paulaner in the Squaire                                                                                              |                       |                             | 
-| **Friday**     | 8:45  | 9:00  | *Arrive*                                                                                                                               |                       |                             |
-| 14.03.2025 | 9:00  | 9:25  | The Intelligent Dispatching Agent (IDA): Enhancing Airport Ramp Operations based on Reinforcement Learning                             |                       | Fraport AG                  |
-|            | 9:25  | 9:50  | Sustainable Supply Chain Network Design Framework for Lithium-Ion Battery Production leveraging Multi-Objective Optimization          | Felix Westerkamp   | d-fine GmbH        |
-|            | 9:50  | 10:15 | A Branch-Price-Cut-And-Switch Approach for Optimizing Team Formation and Routing for Airport Baggage Handling Tasks with Stochastic Travel Times | Andreas Hagn          | TU München                  |
-|            | 10:15 | 10:20 | **Group picture**                                                                                                                        |                       |                             |
-|            | 10:20 | 10:35 | *Coffee break*                                                                                                                         |                       |                             |
-|            | 10:35 | 11:00 | The Green Locomotive Assignment Problem with Deadheading on Trains                                                                   | Gislind Baumgartner   | Universität Wien            |
-|            | 11:00 | 11:25 | Port Call Learning and Optimization Challenges: The PortCall.Zero Project                                                             | Frederik Schulte      | TU Delft                    |
-|            | 11:25 | 11:45 | *Coffee break*                                                                                                                         |                       |                             |
-|            | 11:45 | 12:10 | Planung von dynamisch-induktiven Ladeinfrastrukturen auf Flughafenvorfeldern                                                         | Inka Nozinski         | Leibniz Universität Hannover|
-|            | 12:10 | 12:35 | Operative Planung von dynamisch-induktiv geladenen Passagierbussen auf Flughafenvorfeldern                                           | Niklas Pöch           | Leibniz Universität Hannover|
-|            | 12:35 | 12:40 | *Farewell and thanks*                                                                                                                  |                       |                             |
-|            |       |       | *Group lunch*                                                                                                                          |                       |                             |
-|            | 15:00 | 17:00 | Airport tour (**Meeting point: 14:30 behind the visitor's center**, Terminal 1 Area C) Registration necessary!                        |                       | Fraport AG                  |
-{% endcomment %}
+| **Thursday**   | 13:45 | 14:00 | *Arrive*                                                                                                                         |                       |                             |
+| 05.03.2025 | 14:00 | 14:10 | Welcome and Introduction from DXC Technology                                                                                         | TBA                   | DXC Technology              |
+|            | 14:10 | 14:40 | Strategic Railway Maintenance Planning                                                                                               | Hanno Schülldorf      | Deutsche Bahn AG            |
+|            | 14:40 | 15:10 | A Parameterized Algorithm for Real-Time Train Dispatching                                                                            | Luka Stärk            | ZIB / FU Berlin             |
+|            | 15:10 | 15:40 | *Coffee break*                                                                                                                       |                       |                             |
+|            | 15:40 | 16:10 | Title TBA                                                                                                                            | TBA                   | DXC Technology              |
+|            | 16:10 | 16:40 | News from the tram simulation project: Converging the undirected infrastructure graph in Openstreetmap into a routable directed graph| Jörn Schönberger      | TU Dresden                  |
+|            | 16:40 | 17:10 | Tariff Design and Real-Time Acceptance Control in On-Demand Public Transport                                                         | Pirmin Fontaine       | Catholic University of Eichstätt-Ingolstadt |
+|            | 17:10 | 17:20 | AG Logistik und Verkehr Elections                                                                                                    |                       |                             |
+|            | 19:00 |       | *Group dinner* (Location TBA)                                                                                                        |                       |                             | 
+| **Friday**     | 8:45  | 9:00  | *Arrive*                                                                                                                         |                       |                             |
+| 06.03.2025 | 9:00  | 9:30  | Title TBA                                                                                                                            | Jonas Brenker         | Paderborn University        |
+|            | 9:30  | 10:00 | The Truck-Drone Hurdle Relay Problem in a Euclidean Space                                                                            | Christin Münch        | University Duisburg-Essen   |
+|            | 10:00 | 10:30 | Title TBA                                                                                                                            | Daniel Wetzel         | University of Vienna        |
+|            | 10:30 | 10:45 | **Group picture**                                                                                                                    |                       |                             |
+|            | 10:45 | 11:00 | *Coffee break*                                                                                                                       |                       |                             |
+|            | 11:00 | 11:30 | Logical Mapping of Physical Production and Material Flow Networks                                                                    | Wilmjakob Herlyn      | University of Magdeburg     |
+|            | 11:30 | 12:00 | VRPAgent: LLM-Driven Discovery of Heuristic Operators for Vehicle Routing Problems                                                   | Kevin Tierney         | University of Vienna        |
+|            | 12:00 | 12:05 | *Farewell and thanks*                                                                                                                |                       |                             |
+|            |       |       | *Group lunch*                                                                                                                        |                       |                             |
 
-## Presentation abstracts
-Coming in January, 2026.
+## Presentation abstracts (Author-Alphabetical order)
 
-{% comment %}
-**Enhancing Shipping Efficiency through Bin-packing with Reinforcement Learning**  
-**Christoffel Doorman** (*InstaDeep*)  
-Bin-packing is an optimisation problem that aims to efficiently pack items of varying sizes into containers to minimise wasted space. While bin-packing is a vastly studied problem in applied mathematics and operational research, traditional methods often struggle to find good solutions due to the complexity and combinatorial nature of the problem. Reinforcement Learning (RL), a machine learning approach where an agent learns through feedback from simulated interactions, offers a promising alternative. RL's advantages include flexibility to handle various constraints, scalability to large problems, and adaptability to learn from real-world data. By leveraging RL, logistics companies can develop intelligent systems that optimise container usage, reduce shipping costs and carbon footprint, and enhance operational efficiency.
-
-We at InstaDeep have been building a commercial tool called DeepPack (https://deeppack.ai/), which uses end-to-end RL to solve the bin-packing problem for the logistics and supply chain industry. DeepPack originates from an in-house research project on self-play RL applied to combinatorial optimisation problems, published at NeurIPS’18 (https://arxiv.org/pdf/1807.01672). Over the past years, we have developed DeepPack from a research idea to a commercial application that supports the full stack of logistic constraints and requirements, providing super-human performance.
-
-{% endcomment %}
+**Tariff Design and Real-Time Acceptance Control in On-Demand Public Transport**
+**Pirmin Fontaine**
+Demand-responsive public transport systems must balance uncertain demand with limited vehicle capacity. Besides routing and scheduling, two design levers critically affect system performance: tariff structures that influence perceived fairness and demand levels, and real-time acceptance decisions that allocate scarce operational resources.
+We consider these two decision layers in complementary studies. First, we evaluate alternative tariff systems with respect to transparency, fairness, and price sensitivity using large-scale survey and choice-based conjoint data. Estimated demand elasticities indicate that tariff design directly shapes request volumes and operational load, particularly for on-demand services. Second, we develop a supervised machine learning framework to predict the operational fit of incoming requests in dynamic dial-a-ride problems. Embedded in an online acceptance policy, the predictor anticipates downstream capacity effects while ensuring real-time feasibility.
+Computational experiments with real-world data show that informed acceptance decisions increase served passengers and improve resource utilization. Together, the results highlight fair tariff design and data-driven decision support as key levers for efficient on-demand transport systems.
  
+**Logical Mapping of Physical Production and Material Flow Networks**
+**Wilmjakob Herlyn**
+The presentation offers a new approach to map production and material flow networks on the mathematical theory of Boolean Algebra. The production and material flow of products is normally not arbitrary but sequential oriented, from one location (source) to another location (sink). Relationships between sources and sinks are node-edge-relations that can be represented as vectors or different kinds of graphs (graphs theory). This way of mapping source-sink-relation is normally applied for routes between physical locations. These models can’t represent hierarchical, alternative, and bonded and branched structure of material flow in manufacturing, transporting, storing, handling, sorting etc. For mapping such complex network, the sequential interval structure of Boolean algebra comprises three fundamental mapping dimensions. 
+1.    Sequential-hierarchical dimension 
+2.    Sequential-bonded and branched dimension 
+3.    Sequential-parallel dimension
+The logical network is a virtual representation of the world and must be related to the real physical world and supplemented by an equidistant unit of measure, e.g. the lead-time. On this basis, various methods of arithmetic calculation, simulation, and optimization can be performed. 
+
+**The Truck-Drone Hurdle Relay Problem in a Euclidean Space**
+**Christin Münch**
+In this talk, we present the Truck-Drone Hurdle Relay Problem in a Euclidean space (TDHRP), which is particularly relevant in the context of disaster relief. In this problem, a drone is tasked with the delivery of relief supplies in a disaster-stricken area, while being supported by trucks along its way with transportation and battery exchanges. Trucks and drone need to work together, as the partially damaged road network prevents the trucks from reaching the destination, and as the distance from the depot to the destination is far too great for the drone to cover in one flight. We develop a mixed-integer linear program (MILP) for the TDHRP, where we apply a geometric approach that includes trajectory planning for the drone, as opposed to the common assumption in truck-drone delivery that the vehicles operate on a graph. The geometric approach allows the drone to be launched and recovered on any position along the roads, to model the drone velocities as continuous variables, and to ensure collision avoidance. To reduce computation times, we develop an exact row-generation solution method with six different strategies on adding rows. In an extensive computational study with instances with up to ten trucks and 300 obstacles or no-fly zones, two strategies are shown to yield faster median computation times then the complete MILP.
+
+**News from the tram simulation project: Converging the undirected infrastructure graph in Openstreetmap into a routable directed graph**
+**Jörn Schönberger** (TU Dresden)
+News from the tram simulation project: Converging the undirected infrastructure graph in Openstreetmap into a routable directed graph.
+Openstreetmap (OSM) hosts a quite elaborated tram infrastructure data-package for most of the cities who have such a public transport mode in operation. On top of this infrastructure, tram services (routes) are defined. It is straightforward to use this “data treasure” in the context of evaluating OR-based algorithms. However, since the tram infrastructure storage concepts follow common OSM concepts, track tracks are represented as a huge collection of undirected edge sequences. In addition, important information is not directly stored in OSM (e.g. which turnout/switches can be used in a route). Finally, the overall quality and completeness of the stored data is unclear. In this presentation, a procedure is presented that reconstructs a routable direct graph from the OSM raw data. It derives missing but important data by analyzing “the data stored around”. Finally, it is able to detect obvious data errors but also collects suspicious data (to be handed over to a human-made data inspection and data correction). The abilities and limitations is demonstrated by reconstructing tram network from several European cities.
+
+**Strategic Railway Maintenance Planning**  
+**Hanno Schülldorf** (*Deutsche Bahn AG*)  
+We present a strategic planning problem for railway infrastructure and discus different modelling aspects. We propose a MIP model and (very first) computational results.
+
+**A Parameterized Algorithm for Real-Time Train Dispatching**
+**Luka Stärk** (ZIB / FU Berlin)
+We present a parameterized depth-first-search branch-and-bound algorithm developed for the DISPLIB 2025 competition on real-time train dispatching. Solving the problem requires making routing and ordering decisions for trains to minimize delays. We model the problem using a generalized disjunctive graph, where nodes represent train operations and arcs encode precedence constraints.
+The key contribution is the integration of train path selection into conflict resolution, leading to a branching degree of at most 4. Specifically, a conflict can be resolved by deciding precedence or by removing the involved operations of one train. Hence, we show a parameterized running time of O(4^k poly(n)), where k is the number of conflicts, and n is the number of operations.
+For this work, we adapt and integrate several algorithmic components: (1) conflict detection using interval graphs, and grouping adjacent conflicts with mutually implied precedence decisions, (2) incremental longest path computation of operation start times, and (3) memory-augmented node selection informed by previous iterations, which additionally provides lower bounds for branching cuts.
+To quickly construct feasible solutions and upper bounds, we introduce train-by-train and rolling-horizon heuristics that reuse the branch-and-bound algorithm.
+Experiments demonstrate the effectiveness of our approach: we find feasible solutions for all 112 competition instances and prove optimality for 50 of them within 1 minute.
+
+**VRPAgent: LLM-Driven Discovery of Heuristic Operators for Vehicle Routing Problems**
+**Kevin Tierney**
+Designing high-performing heuristics for vehicle routing problems (VRPs) is a complex task that requires both intuition and deep domain knowledge. Large language model (LLM)-based code generation has recently shown promise across many domains, but it still falls short of producing heuristics that rival those crafted by human experts. In this paper, we propose VRPAgent, a framework that integrates LLM-generated components into a metaheuristic and refines them through a novel genetic search. By using the LLM to generate problem-specific operators, embedded within a generic metaheuristic framework, VRPAgent keeps tasks manageable, guarantees correctness, and still enables the discovery of novel and powerful strategies. Across multiple problems, including the capacitated VRP, the VRP with time windows, and the prize-collecting VRP, our method discovers heuristic operators that outperform handcrafted methods and recent learning-based approaches while requiring only a single CPU core. To our knowledge, \VRPAgent is the first LLM-based paradigm to advance the state-of-the-art in VRPs, highlighting a promising future for automated heuristics discovery.
+
 > built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
 >
 > GOR e.V. logo copyright GOR e.V., DXC logo copyright DXC Technologies, content: cc-by-sa <a href="https://github.com/{{ site.github_username }}">Kevin Tierney</a> {{ site.pub_year}} (get [source code]({{ site.repo }})).
