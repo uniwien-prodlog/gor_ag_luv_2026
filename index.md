@@ -37,7 +37,7 @@ Note that the following program is subject to change. All speakers are requested
 |            | 14:10 | 14:40 | Strategic Railway Maintenance Planning                                                                                               | Hanno Schülldorf      | Deutsche Bahn AG            |
 |            | 14:40 | 15:10 | A Parameterized Algorithm for Real-Time Train Dispatching                                                                            | Luka Stärk            | ZIB / FU Berlin             |
 |            | 15:10 | 15:40 | *Coffee break*                                                                                                                       |                       |                             |
-|            | 15:40 | 16:10 | Title TBA                                                                                                                            | TBA                   | DXC Technology              |
+|            | 15:40 | 16:10 | Agile Modernization of Mission‑Critical Railway Systems at SBB                                                                       | Nicki Skujat          | DXC Technology              |
 |            | 16:10 | 16:40 | News from the tram simulation project: Converging the undirected infrastructure graph in Openstreetmap into a routable directed graph| Jörn Schönberger      | TU Dresden                  |
 |            | 16:40 | 17:10 | Tariff Design and Real-Time Acceptance Control in On-Demand Public Transport                                                         | Pirmin Fontaine       | Catholic University of Eichstätt-Ingolstadt |
 |            | 17:10 | 17:20 | Elections: AG Logistik und Verkehr                                                                                                   |                       |                             |
@@ -45,7 +45,7 @@ Note that the following program is subject to change. All speakers are requested
 | **Friday**     | 8:45  | 9:00  | *Arrive*                                                                                                                         |                       |                             |
 | 06.03.2025 | 9:00  | 9:30  | Title TBA                                                                                                                            | TBA                   | DXC Technology              |
 |            | 9:30  | 10:00 | Title TBA                                                                                                                            | Daniel Wetzel         | University of Vienna        |
-|            | 10:00 | 10:30 | Title TBA                                                                                                                            | Jonas Brenker         | Paderborn University        |
+|            | 10:00 | 10:30 | A state-expanded network formulation for Multiple-Depot Integrated Vehicle and Crew Scheduling                                       | Jonas Brenker         | Paderborn University        |
 |            | 10:30 | 10:45 | **Group picture**                                                                                                                    |                       |                             |
 |            | 10:45 | 11:00 | *Coffee break*                                                                                                                       |                       |                             |
 |            | 11:00 | 11:30 | The Truck-Drone Hurdle Relay Problem in a Euclidean Space                                                                            | Christin Münch        | University Duisburg-Essen   |
@@ -54,7 +54,14 @@ Note that the following program is subject to change. All speakers are requested
 |            | 12:30 | 12:35 | *Farewell and thanks*                                                                                                                |                       |                             |
 |            |       |       | *Group lunch*                                                                                                                        |                       |                             |
 
-## Presentation abstracts (Author-Alphabetical order)
+## Presentation abstracts
+
+**``Agile Modernization of Mission‑Critical Railway Systems at SBB'' - From Order‑to‑Cash at SBB Cargo to Wagon Management in Marshalling Yards at SBB Infra  
+**Nicki Skujat**  
+SBB Cargo has successfully modernized and significantly simplified an IT landscape that had grown increasingly complex over decades. Over a period of five years, a new cloud‑based IT core solution, ORCA (based on DXC-RCMS), was introduced step by step during
+ ongoing operations. This approach enabled a substantial reduction in operational complexity and IT costs.
+In parallel, SBB Infrastructure introduced WaVe (based on DXC-RCMS), a modern wagon management system based on RCMS. With real‑time integration into hump interlocking systems, WaVe supports efficient train separation and formation in SBB marshalling yards.
+This talk shares practical insights into agile delivery, modular architecture, and cross‑functional collaboration required to modernize mission‑critical railway systems without disrupting daily operations.
 
 **Tariff Design and Real-Time Acceptance Control in On-Demand Public Transport**  
 **Pirmin Fontaine** (*Catholic University of Eichstätt-Ingolstadt*)  
@@ -91,6 +98,11 @@ The key contribution is the integration of train path selection into conflict re
 For this work, we adapt and integrate several algorithmic components: (1) conflict detection using interval graphs, and grouping adjacent conflicts with mutually implied precedence decisions, (2) incremental longest path computation of operation start times, and (3) memory-augmented node selection informed by previous iterations, which additionally provides lower bounds for branching cuts.
 To quickly construct feasible solutions and upper bounds, we introduce train-by-train and rolling-horizon heuristics that reuse the branch-and-bound algorithm.
 Experiments demonstrate the effectiveness of our approach: we find feasible solutions for all 112 competition instances and prove optimality for 50 of them within 1 minute.
+
+**A state-expanded network formulation for Multiple-Depot Integrated Vehicle and Crew Scheduling**  
+**Jonas Brenker** (*Paderborn University*)  
+*Joint work with Michael Römer (Bielefeld University) and Guido Schryen (Paderborn Universit)*
+In public transport systems, both vehicle deployment and crew assignment constitute major planning challenges for urban, metropolitan, and intercity services. The integrated vehicle and crew scheduling problem (VCSP) addresses both challenges simultaneously. Given a set of timetabled trips, it seeks to determine minimum-cost schedules for vehicles and crews that are feasible and compatible with each other. As both vehicle scheduling in the multiple-depot case and crew scheduling are NP-hard, existing research mainly relies on heuristic solution methods, while exact approaches have thus far been limited to smaller instances. To address this gap, we propose a novel exact reformulation of the multiple-depot VCSP in which crew duties are constructed as paths in a state-expanded network, with the goal of reducing overall run time, in particular for large-scale instances. We solve the resulting mixed-integer programming model using a standard solver and conduct experiments on well-known benchmark instances from the literature to compare solution quality and run time against state-of-the-art exact and heuristic methods.
 
 **VRPAgent: LLM-Driven Discovery of Heuristic Operators for Vehicle Routing Problems**  
 **Kevin Tierney** (*University of Vienna*)  
