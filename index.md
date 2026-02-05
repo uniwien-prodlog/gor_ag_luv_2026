@@ -10,7 +10,7 @@ The German Operations Research Society working group for logistics and transport
 Thank you to DXC Technology for hosting this year's GOR AG LuV workshop at their offices in Düsseldorf!
 
 
-{% include figure.html img="dxc_logo.png" alt="DXC Technology logo" width="20%" %}
+{% include figure.html img="dxc_logo.png" alt="DXC Technology logo" width="21%" %}
 
 ## Directions to the workshop location
 The workshop will take place in at [DXC Technology, Speditionsstraße 13, 40221 Düsseldorf, Germany](https://maps.app.goo.gl/ysDpGx8Mbkk49kSV6).
