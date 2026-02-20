@@ -101,7 +101,7 @@ Experiments demonstrate the effectiveness of our approach: we find feasible solu
 
 **A state-expanded network formulation for Multiple-Depot Integrated Vehicle and Crew Scheduling**  
 **Jonas Brenker** (*Paderborn University*)  
-*Joint work with Michael Römer (Bielefeld University) and Guido Schryen (Paderborn Universit)*
+*Joint work with Guido Schryen (Paderborn Universit)*
 In public transport systems, both vehicle deployment and crew assignment constitute major planning challenges for urban, metropolitan, and intercity services. The integrated vehicle and crew scheduling problem (VCSP) addresses both challenges simultaneously. Given a set of timetabled trips, it seeks to determine minimum-cost schedules for vehicles and crews that are feasible and compatible with each other. As both vehicle scheduling in the multiple-depot case and crew scheduling are NP-hard, existing research mainly relies on heuristic solution methods, while exact approaches have thus far been limited to smaller instances. To address this gap, we propose a novel exact reformulation of the multiple-depot VCSP in which crew duties are constructed as paths in a state-expanded network, with the goal of reducing overall run time, in particular for large-scale instances. We solve the resulting mixed-integer programming model using a standard solver and conduct experiments on well-known benchmark instances from the literature to compare solution quality and run time against state-of-the-art exact and heuristic methods.
 
 **VRPAgent: LLM-Driven Discovery of Heuristic Operators for Vehicle Routing Problems**  
