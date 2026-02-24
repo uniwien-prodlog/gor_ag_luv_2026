@@ -56,7 +56,7 @@ Note that the following program is subject to change. All speakers are requested
 
 ## Presentation abstracts
 
-**``Agile Modernization of Mission‑Critical Railway Systems at SBB'' - From Order‑to‑Cash at SBB Cargo to Wagon Management in Marshalling Yards at SBB Infra  
+**``Agile Modernization of Mission‑Critical Railway Systems at SBB'' - From Order‑to‑Cash at SBB Cargo to Wagon Management in Marshalling Yards at SBB Infra**  
 **Nicki Skujat**  
 SBB Cargo has successfully modernized and significantly simplified an IT landscape that had grown increasingly complex over decades. Over a period of five years, a new cloud‑based IT core solution, ORCA (based on DXC-RCMS), was introduced step by step during
  ongoing operations. This approach enabled a substantial reduction in operational complexity and IT costs.
