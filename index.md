@@ -18,8 +18,9 @@ The workshop will take place in at [DXC Technology, Speditionsstraße 13, 40221 
 
 ## Attending
 
-Registration is open! Please [**register here!**](https://forms.gle/KrJNBEHirTjc7BHg6). Note that the workshop is free for members of the [GOR e.V.](https://www.gor-ev.de/). If you are not a member, please sign up before registering.
+Registration is now closed! See you in Düsseldorf! Note that the workshop is free for members of the [GOR e.V.](https://www.gor-ev.de/). If you are not a member, please sign up before registering.
 {% comment %}
+Please [**register here!**](https://forms.gle/KrJNBEHirTjc7BHg6)
 [**Register here!**](https://forms.gle/DpQP49y9AbsJaF868) Registration is free for members of the [GOR](https://www.gor-ev.de/). If you are not a GOR e.V. member, please join prior to attending the workshop.
 {% endcomment %}
 
